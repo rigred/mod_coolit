@@ -112,6 +112,7 @@ Here are some examples to get you acquainted:
     8b -> Command ID
     07 -> Read from 1 byte register
     00 -> Read Register 00 (Identifier 1)
+```
 
 ### Response
 ```
@@ -119,6 +120,7 @@ Here are some examples to get you acquainted:
     8b -> Command ID
     09 -> Register size 2 bytes
     42 -> Identifier for H110i (0x42)
+```
 
 ## Read Identifier 2
 
